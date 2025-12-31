@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb">
 </p>
 
-An advanced Telegram bot by **RexBots** designed to save restricted content (Text, Media, Files) from both private and public channels. This bot supports batch downloading, user login via session strings, and advanced customization options.
+An advanced Telegram bot by MSMAXPRO designed to save restricted content (Text, Media, Files) from both private and public channels. This bot supports batch downloading, user login via session strings, and advanced customization options.
 
 ## 🚀 Features
 
@@ -111,20 +111,13 @@ docker run -d --env-file .env rexbots-save-content
 
 A huge thanks to the developers who made this project possible:
 
-<div align="center">
-
-| [**Abhi**](https://t.me/about_zani/143) | [**Abhinav**](https://t.me/adityaabhinav) | [**Bharath**](https://t.me/Bharath_boy) | [**Master**](https://t.me/V_Sbotmaker) |
-| :---: | :---: | :---: | :---: |
-| Owner | Developer | Developer | Developer |
-
-</div>
 
 ## 📞 Support
 
 For queries, feature requests, or bug reports, join our official channel:
 
 <div align="center">
-  <a href="https://t.me/RexBots_Official">
+  <a href="https://t.me/MSMAXPRosupport">
     <img src="https://img.shields.io/badge/RexBots-Official%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </div>
